@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter Pattern", "Adapter 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategyattern", "Strategyattern\Strategyattern.csproj", "{67E53010-913A-4A4E-A917-09E48E85BDB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesSystemPaymentAbstraction(FactoryPattern)", "SalesSystemPaymentAbstraction(FactoryPattern)\SalesSystemPaymentAbstraction(FactoryPattern).csproj", "{17BAF075-4213-4A94-97C5-6DA0D71A385B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesSystemPaymentAbstraction(FactoryPattern)", "SalesSystemPaymentAbstraction(FactoryPattern)\SalesSystemPaymentAbstraction(FactoryPattern).csproj", "{17BAF075-4213-4A94-97C5-6DA0D71A385B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderStatePattern", "OrderStatePattern\OrderStatePattern.csproj", "{B1718AE6-EBA3-4994-8C57-C822CAA4F9F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{17BAF075-4213-4A94-97C5-6DA0D71A385B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17BAF075-4213-4A94-97C5-6DA0D71A385B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17BAF075-4213-4A94-97C5-6DA0D71A385B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1718AE6-EBA3-4994-8C57-C822CAA4F9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1718AE6-EBA3-4994-8C57-C822CAA4F9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1718AE6-EBA3-4994-8C57-C822CAA4F9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1718AE6-EBA3-4994-8C57-C822CAA4F9F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,6 +6,7 @@ namespace Strategyattern.Core.Payment
     {
         protected override IPaymentMethod CreatePaymentMethod()
         {
+            
            return new VisaPaymentMethod();
         }
     }
