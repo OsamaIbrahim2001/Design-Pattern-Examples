@@ -1,0 +1,14 @@
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\bin\Debug\net7.0\Adapter Pattern.exe
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\bin\Debug\net7.0\Adapter Pattern.deps.json
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\bin\Debug\net7.0\Adapter Pattern.runtimeconfig.json
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\bin\Debug\net7.0\Adapter Pattern.dll
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\bin\Debug\net7.0\Adapter Pattern.pdb
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\Adapter Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\Adapter Pattern.AssemblyInfoInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\Adapter Pattern.AssemblyInfo.cs
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\Adapter Pattern.csproj.CoreCompileInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\Adapter Pattern.dll
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\refint\Adapter Pattern.dll
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\Adapter Pattern.pdb
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\Adapter Pattern.genruntimeconfig.cache
+D:\CmWorkSpace\TempPro\DesignPattern\Adapter Pattern\obj\Debug\net7.0\ref\Adapter Pattern.dll

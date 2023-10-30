@@ -1,0 +1,31 @@
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\AdapterPattern(Payroll System).exe
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\AdapterPattern(Payroll System).deps.json
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\AdapterPattern(Payroll System).runtimeconfig.json
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\AdapterPattern(Payroll System).dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\AdapterPattern(Payroll System).pdb
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).csproj.AssemblyReference.cache
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).GeneratedMSBuildEditorConfig.editorconfig
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).AssemblyInfoInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).AssemblyInfo.cs
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).csproj.CoreCompileInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).MvcApplicationPartsAssemblyInfo.cs
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).MvcApplicationPartsAssemblyInfo.cache
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\staticwebassets\msbuild.AdapterPattern(Payroll System).Microsoft.AspNetCore.StaticWebAssets.props
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\staticwebassets\msbuild.build.AdapterPattern(Payroll System).props
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AdapterPattern(Payroll System).props
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AdapterPattern(Payroll System).props
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\staticwebassets.build.json
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\staticwebassets.development.json
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\scopedcss\bundle\AdapterPattern(Payroll System).styles.css
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).csproj.CopyComplete
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\refint\AdapterPattern(Payroll System).dll
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).pdb
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\AdapterPattern(Payroll System).genruntimeconfig.cache
+D:\CmWorkSpace\TempPro\DesignPattern\AdapterPattern(Payroll System)\obj\Debug\net7.0\ref\AdapterPattern(Payroll System).dll

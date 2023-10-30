@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4MoGtPlObpeUooHHDfsBbJ88JnM7emG4m9hOk53vpnUp/i5zpAUcO/GBuBNlMe3Gus7twp2qOuIZ+IPf7tI1w==",
+  "success": true,
+  "projectFilePath": "D:\\CmWorkSpace\\TempPro\\DesignPattern\\AdapterPattern(Payroll System)\\AdapterPattern(Payroll System).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osama.ibrahim\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\osama.ibrahim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\osama.ibrahim\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\osama.ibrahim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\osama.ibrahim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\osama.ibrahim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\osama.ibrahim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

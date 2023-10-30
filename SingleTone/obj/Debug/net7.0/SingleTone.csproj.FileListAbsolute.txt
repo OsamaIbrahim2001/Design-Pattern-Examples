@@ -1,0 +1,14 @@
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\bin\Debug\net7.0\SingleTone.exe
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\bin\Debug\net7.0\SingleTone.deps.json
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\bin\Debug\net7.0\SingleTone.runtimeconfig.json
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\bin\Debug\net7.0\SingleTone.dll
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\bin\Debug\net7.0\SingleTone.pdb
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\SingleTone.GeneratedMSBuildEditorConfig.editorconfig
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\SingleTone.AssemblyInfoInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\SingleTone.AssemblyInfo.cs
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\SingleTone.csproj.CoreCompileInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\SingleTone.dll
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\refint\SingleTone.dll
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\SingleTone.pdb
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\SingleTone.genruntimeconfig.cache
+D:\CmWorkSpace\TempPro\DesignPattern\SingleTone\obj\Debug\net7.0\ref\SingleTone.dll

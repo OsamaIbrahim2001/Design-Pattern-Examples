@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Strategyattern/1.0.0": {
+        "dependencies": {
+          "SalesSystemPaymentAbstraction(FactoryPattern)": "1.0.0"
+        },
+        "runtime": {
+          "Strategyattern.dll": {}
+        }
+      },
+      "SalesSystemPaymentAbstraction(FactoryPattern)/1.0.0": {
+        "runtime": {
+          "SalesSystemPaymentAbstraction(FactoryPattern).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strategyattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalesSystemPaymentAbstraction(FactoryPattern)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
