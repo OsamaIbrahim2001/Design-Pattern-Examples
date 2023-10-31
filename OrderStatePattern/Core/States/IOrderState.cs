@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OrderStatePattern.Core.States
+﻿namespace OrderStatePattern.Core.States
 {
     internal interface IOrderState
     {
+        void Cancel();
+        void Drift();
+        void Confirm();
+        void Process();
+        void Ship();
+        void Deliver();
+        void Return();
     }
 }

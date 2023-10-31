@@ -6,7 +6,46 @@ using System.Threading.Tasks;
 
 namespace OrderStatePattern.Core.States
 {
-    internal class CancelState
+    internal class CancelState : IOrderState
     {
+        private readonly Order _order;
+        public CancelState(Order order)
+        {
+            _order = order;
+        }
+        public void Cancel()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Confirm()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Deliver()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Drift()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Process()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Return()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Ship()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -1,0 +1,14 @@
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\OrderStatePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\OrderStatePattern.AssemblyInfoInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\OrderStatePattern.AssemblyInfo.cs
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\OrderStatePattern.csproj.CoreCompileInputs.cache
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\bin\Debug\net7.0\OrderStatePattern.exe
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\bin\Debug\net7.0\OrderStatePattern.deps.json
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\bin\Debug\net7.0\OrderStatePattern.runtimeconfig.json
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\bin\Debug\net7.0\OrderStatePattern.dll
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\bin\Debug\net7.0\OrderStatePattern.pdb
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\OrderStatePattern.dll
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\refint\OrderStatePattern.dll
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\OrderStatePattern.pdb
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\OrderStatePattern.genruntimeconfig.cache
+D:\CmWorkSpace\TempPro\DesignPattern\OrderStatePattern\obj\Debug\net7.0\ref\OrderStatePattern.dll
